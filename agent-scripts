@@ -25,3 +25,4 @@ apt install git -y
 apt install vim -y
 echo “All packages installed successfully”
 
+updating my scripts
